@@ -1,0 +1,231 @@
+TRANSCRIÇÃO REUNIÃO2 11/12/2025:
+
+Leandro Oliveira Alvares
+0 minutos 4 segundos0:04
+Leandro Oliveira Alvares 0 minutos 4 segundos
+But not.
+Leandro Oliveira Alvares 0 minutos 6 segundos
+Galera, boa tarde. Nossa segunda turma aqui é a primeira, nosso primeiro encontro. Eu tinha feito aqui um overview com vocês, de como é que funciona a Fusion, um pouquinho de como que era a parte da administração dele aqui pelo OpenShift, que ele fica dentro de
+Leandro Oliveira Alvares 0 minutos 32 segundos
+E aí o Alisson na nossa, no nosso último encontro, ele tinha pedido para ver que como que um usuário é.
+Leandro Oliveira Alvares 0 minutos 42 segundos
+Faria uma solicitação dentro do Fusion, não é?
+Leandro Oliveira Alvares 0 minutos 46 segundos
+Então vamos partir para cá desse com essa ação. E aí, como que funciona? Então eu passei para vocês o endereço aqui do Fusion, não produção, tá? A gente vai trabalhar em cima dele e passei também o endereço para vocês.
+Leandro Oliveira Alvares 1 minuto 3 segundos
+Do catálogo.
+Leandro Oliveira Alvares 1 minuto 6 segundos
+E aqui dos 2 repositórios de como que é feita a administração dele, então o primeiro repositório era.
+Leandro Oliveira Alvares 1 minuto 14 segundos
+Esse daqui.
+Leandro Oliveira Alvares 1 minuto 16 segundos
+Software template Dev hub e o outro era o Gustavo Gustavo Center, tá? Hoje a gente vai trabalhar então um pouquinho em cima deste daqui vou colocar no chat para vocês, se quiserem ir acompanhando.
+Leandro Oliveira Alvares 51 minutos 33 segundos
+Eu tenho essa action de Melo. Na moral, é para fazer só um push no meu, no meu Fusion. Está bom? Então ele faz o que, cara? Registra.
+Leandro Oliveira Alvares 51 minutos 44 segundos
+Tá, eu vou registrar passando.
+Leandro Oliveira Alvares 51 minutos 47 segundos
+Pessoas e a Esteiras está aqui o meu catálogo de infradevo
+Leandro Oliveira Alvares 51 minutos 53 segundos
+Figueiredo.
+Leandro Oliveira Alvares 51 minutos 56 segundos
+Tá bom, que é o quê?
+Leandro Oliveira Alvares 52 minutos
+Steps ponto, qual que é o URL dele? Está steps ponto public source.
+Leandro Oliveira Alvares 52 minutos 10 segundos
+Pública e sócio, criação do repositório principal. Vamos ver um negócio bem legal que tem dentro dessa action. Olha que legal, aqui que eu consigo trabalhar algo interessante.
+Leandro Oliveira Alvares 52 minutos 22 segundos
+Além de colocar coisas, além de ter inputs, eu tenho também outputs do que roda aqui. Qual que é o meu output, por exemplo? Nossa, eu posso retornar Caio URL, tá bom? A URL do Rui
+Leandro Oliveira Alvares 52 minutos 39 segundos
+Oi, eu posso, está bom dentro retornar o meu resto do meu commit inicial.
+Leandro Oliveira Alvares 52 minutos 48 segundos
+E quando eu vim para cá, eu peguei o seguinte.
+Leandro Oliveira Alvares 52 minutos 52 segundos
+Steppes, aqui é onde criou, lá em cima criou o repositório. Output, e Certificado Contact URL. Aqui ele me trouxe o que? Me trouxe a URL do meu repositório. Então eu estou falando aqui porque eu vou registrar.
+Leandro Oliveira Alvares 53 minutos 10 segundos
+Dentro do meu, dentro do meu Fusion, é o seguinte, registra nessa URL, esse arquivo catalogue, que nada mais é do que ele vir aqui. Estou passando para ele isso daqui.
+Leandro Oliveira Alvares 53 minutos 27 segundos
+Eu estou passando para ele também essa informação. Então aqui eu passei a URL, aqui eu passei meu catálogo infradevopscaixa que o Fusion vai fazer, vai pegar isso daqui, vai chamar a p e dele.
+Leandro Oliveira Alvares 53 minutos 40 segundos
+E vai fazer isso daqui?
+Leandro Oliveira Alvares 53 minutos 44 segundos
+Isso aqui é uma forma galera para atualizar sempre informações. Essas informações do catálogo info ou qualquer outro catálogo, elas são atualizadas a cada 2. Acho que 2 ou 4 minutos, mas não, pô, estou fazendo agora, já quero fazer um teste, a gente coloca aqui uma informação e ele já faz uma análise, já vê se tem algum erro de Rede de Paula, qualquer coisa e traz para cá.
+Leandro Oliveira Alvares 54 minutos 5 segundos
+Não da mesma forma e se alguém reclamar dentro do nosso repositório.
+Leandro Oliveira Alvares 54 minutos 12 segundos
+Tô saindo, tá? Dos repositórios da aplicação, eu vou vir naquele repositório principal.
+Leandro Oliveira Alvares 54 minutos 18 segundos
+Do GitHub, aquele do backstage aqui está do Fusion, que é esse daqui.
+Leandro Oliveira Alvares 54 minutos 25 segundos
+Então eu estou no 10, não é aqui no 10, estou no escaffolder templates, estou no 10, estou no escaffolder templates, tudo que está aqui dentro. Vamos supor que eu peguei e fiz uma mudança em algum.
+Leandro Oliveira Alvares 54 minutos 41 segundos
+Em algum passo do meu template, sempre do template, se eu mudar qualquer coisa do meu template.
+Leandro Oliveira Alvares 54 minutos 50 segundos
+Ele atualiza a cada 4 minutos ou a gente vem aqui dentro do meu software template DevHub. Na pasta correspondente, agora eu estou na pasta desk, onde eu estou mostrando para vocês aqui ali. Na minha pastinha de Sousa Folha de TIplates.
+Leandro Oliveira Alvares 55 minutos 7 segundos
+E vamos supor, por exemplo, que eu tenha mexido alguma coisa no dotnet, que foi o que a gente mexeu.
+Leandro Oliveira Alvares 55 minutos 12 segundos
+Tá? É o mesmo arquivo que eu estou mexendo aqui, tá bom? O que a gente faz dentro do Fusion para ele reconhecer essa nova versão? A gente pega essa URL do Prado de Pinho e Esteiras de Pinho e Esteiras de Pinho e Esteiras de Pinho e Esteiras de Pinho e Esteiras de Pinho e Esteiras de Pinho e Esteiras de Pinho e Esteiras de Pinho e Est
+Leandro Oliveira Alvares 55 minutos 29 segundos
+E coloca ela aqui dentro, ele vai fazer a mesma análise.
+Leandro Oliveira Alvares 55 minutos 35 segundos
+Está bom, se tem algum erro, alguma coisa na forma de escrita e vai importar.
+Leandro Oliveira Alvares 55 minutos 41 segundos
+Então, da mesma forma como eu importo o catálogo e info do cliente lá, eu também faço isso aqui do meu Data Net, do meu template.
+Leandro Oliveira Alvares 55 minutos 52 segundos
+Beleza, galera, o nosso horário está acabando agora daqui a 30 segundos.
+Leandro Oliveira Alvares 55 minutos 59 segundos
+Aí eu queria saber se vocês têm alguma dúvida, tá bom, se semana que vem, de repente, a gente pode criar catálogos, a gente abre aqui, a gente vai fazendo alguns juntos e vamos testar isso daqui, treinar isso, tá bom? Se vocês querem que eu entre no detalhe de mais algumas coisas.
+Leandro Oliveira Alvares 56 minutos 15 segundos
+Portal não, isso aqui eu vou fazer, tá bom, Fernando aqui na parte de infraestrutura, de como é que é feita a configuração e administração, eu vou entrar nessa parte, tá bom? E hoje a gente deu uma passadinha.
+Leandro Oliveira Alvares 56 minutos 27 segundos
+de como elas são configuradas, dos Santos e os templates. Tá bom? Como que isso aqui é colocado, como que eu te registro no componente, como que esse repositório é criado lá na ponta. E aí eu errinho que deu ali, desculpa.
+Leandro Oliveira Alvares 56 minutos 44 segundos
+Está, mas eu tinha que eu coloquei aqui.
+Leandro Oliveira Alvares 56 minutos 47 segundos
+Um a maiúsculo, sem querer, tá bom? Tem que ser sempre minúsculas. As tags são sempre minúsculas.
+Leandro Oliveira Alvares 56 minutos 56 segundos
+Tá bom, gente? Beleza? Alguma dúvida?
+Leandro Oliveira Alvares 57 minutos 2 segundos
+Fechou? Então, semana que vem, terça-feira, a gente pode então criar um. Eu vou criar um catálogo do zero com vocês. Está bom que vocês acham?
+
+Priscila Moreira Magalhaes
+57 minutos 11 segundos57:11
+Priscila Moreira Magalhaes 57 minutos 11 segundos
+Ótimo.
+
+Leandro Oliveira Alvares
+57 minutos 13 segundos57:13
+Leandro Oliveira Alvares 57 minutos 13 segundos
+Pode ser, se vocês quiserem também criar na semana que vem, tá? A gente vai fazendo aqui, vocês vão acompanhando, eu vou fazendo devagarzinho, já fazendo juntos, tá? Todo mundo criar um catálogo de Hello World, alguma coisa mais simples.
+
+Priscila Moreira Magalhaes
+57 minutos 22 segundos57:22
+Priscila Moreira Magalhaes 57 minutos 22 segundos
+Muito.
+Priscila Moreira Magalhaes 57 minutos 29 segundos
+Feliz, feliz.
+
+Leandro Oliveira Alvares
+57 minutos 29 segundos57:29
+Leandro Oliveira Alvares 57 minutos 29 segundos
+Tá bom? Então tá faltando a gente falar sobre. Vou deixar aqui, tá bom? Próximos Passos é.
+Leandro Oliveira Alvares 57 minutos 38 segundos
+Ela não estava compartilhada, não é? Então a gente fica ter aqui os nossos próximos passos.
+Leandro Oliveira Alvares 57 minutos 45 segundos
+E aí, se vocês tiverem alguma sugestão, eu já coloco aqui já para ir para a gente começar a trabalhar, está?
+Leandro Oliveira Alvares 57 minutos 52 segundos
+Técio nos próximos Passos, eu sugiro que a gente faça.
+Leandro Oliveira Alvares 58 minutos
+Construir um catálogo.
+Leandro Oliveira Alvares 58 minutos 4 segundos
+2 é, acho que a gente pode ver sobre plugins.
+Leandro Oliveira Alvares 58 minutos 9 segundos
+Pessoas e Pereira está faltando a gente ver o.
+Leandro Oliveira Alvares 58 minutos 16 segundos
+Isso aqui é configuração dos plugins.
+Leandro Oliveira Alvares 58 minutos 22 segundos
+Maria.
+Leandro Oliveira Alvares 58 minutos 26 segundos
+Essa daqui é a parte de.
+Leandro Oliveira Alvares 58 minutos 29 segundos
+Alves de Santos.
+Leandro Oliveira Alvares 58 minutos 32 segundos
+As funcionalidades é está faltando a gente ver também sobre a parte de customização da interface.
+Leandro Oliveira Alvares 58 minutos 41 segundos
+Pessoas e mais alguma coisa, gente, para.
+Leandro Oliveira Alvares 58 minutos 46 segundos
+Tá faltando o que vocês gostariam de ver aqui sobre a parte do Fusion?
+Leandro Oliveira Alvares 58 minutos 52 segundos
+Possuir catálogo, então, na terça-feira que vem, plugins, Gustavo infra customizações.
+
+Lucas Zoser Nunes Costa
+58 minutos 59 segundos58:59
+Lucas Zoser Nunes Costa 58 minutos 59 segundos
+Acho que seria interessante mostrar a relação de passas que ele gera também.
+
+Leandro Oliveira Alvares
+59 minutos 4 segundos59:04
+Leandro Oliveira Alvares 59 minutos 4 segundos
+Como assim?
+
+Lucas Zoser Nunes Costa
+59 minutos 5 segundos59:05
+Lucas Zoser Nunes Costa 59 minutos 5 segundos
+É, eu não sei se você acho que você deu uma mostrada rápida, mas entra mais detalhe em relação ali do infradevopscaixa infradevopscaixa infradevopscaixa infradevopscaixa infradevopscaixa e você comentou, mas acho que dá mais uma aprofundada.
+
+Leandro Oliveira Alvares
+59 minutos 13 segundos59:13
+Leandro Oliveira Alvares 59 minutos 13 segundos
+Hora do Santana.
+Leandro Oliveira Alvares 59 minutos 15 segundos
+Olha, acho que tinha. Está bom, eu mostro. É porque assim fica mais na parte do devops. Está bom? Então, mas eu vou colocar aqui agora.
+Leandro Oliveira Alvares 59 minutos 27 segundos
+Passos e.
+Leandro Oliveira Alvares 59 minutos 29 segundos
+Okay.
+Leandro Oliveira Alvares 59 minutos 35 segundos
+Que é?
+Leandro Oliveira Alvares 59 minutos 39 segundos
+Contente in Francisco?
+Leandro Oliveira Alvares 59 minutos 42 segundos
+Fazer o review das pastas criadas.
+Leandro Oliveira Alvares 59 minutos 45 segundos
+Ponte infraestrutura.
+Leandro Oliveira Alvares 59 minutos 48 segundos
+Mas está tranquilo a parte de como que essa pasta chega lá, ainda que a gente não saiba o conteúdo dessa pasta, como é que a gente criou essa pasta?
+
+Lucas Zoser Nunes Costa
+59 minutos 59 segundos59:59
+Lucas Zoser Nunes Costa 59 minutos 59 segundos
+Acredito que sim.
+
+Leandro Oliveira Alvares
+1 hora1:00:00
+Leandro Oliveira Alvares 1 hora
+Elaine passar aí para a Esteiras, deixa eu comentar um pouquinho a Fernando Santos, tá bom, gente? Então a gente se encontra na terça-feira que vem, vamos perguntar a galerinha, tá bom? Terça-feira que vem vai ser mais prático, então a gente vai fazer juntos, tá bom? A gente pede para alguém compartilhar a tela para a gente ir escrevendo.
+Leandro Oliveira Alvares 1 hora 18 segundos
+Está, mas vamos fazer juntos mesmo.
+Leandro Oliveira Alvares 1 hora 22 segundos
+Passos em prática não vai ficar mais difícil. O Eveline quer falar alguma coisa?
+
+Weber Alves de Oliveira
+1 hora 27 segundos1:00:27
+Weber Alves de Oliveira 1 hora 27 segundos
+Só agradecer mesmo, Leandro, mais uma vez. E o pessoal da Esteiras também, o Alisson pediu pra chamar. Hoje a gente já tem 2 colegas aqui e a partir de semana que vem Eu Acredito que já vai ter mais pessoal também. Que aí pra parte prática, tanto da nossa aqui, do infra fácil, quanto do devops, a gente consegue atuar mais.
+
+Leandro Oliveira Alvares
+1 hora 43 segundos1:00:43
+Leandro Oliveira Alvares 1 hora 43 segundos
+Vamos começar pela parte da Costa da Costa da Costa da Costa da Costa da Costa da Costa da Costa da Costa da Costa da Costa da Costa da Costa da Costa da Costa da Costa da Costa da Costa da Costa da Costa da Costa da Costa da Costa da Costa da Costa da Costa da Costa da Costa da Costa da Costa da Costa da Costa da S
+
+Weber Alves de Oliveira
+1 hora 47 segundos1:00:47
+Weber Alves de Oliveira 1 hora 47 segundos
+A gente envolve mais o pessoal.
+
+Leandro Oliveira Alvares
+1 hora 55 segundos1:00:55
+Leandro Oliveira Alvares 1 hora 55 segundos
+Como é que seria o trabalho operacional de se desenvolver numa página mesmo ou a gente colocando ali dentro de um framework? Tá bom, o que é que a gente vai fazer?
+Leandro Oliveira Alvares 1 hora 1 minuto 4 segundos
+Tá bom, então acho que semana que vem dá para fazer aqui o 0 e 1, faço o overview e a gente constrói um catálogo e uma automação por para fazer alguma coisa.
+Leandro Oliveira Alvares 1 hora 1 minuto 13 segundos
+Está bom, galera? A gente se vê terça-feira que vem então, 14 horas.
+
+Weber Alves de Oliveira
+1 hora 1 minuto 15 segundos1:01:15
+Weber Alves de Oliveira 1 hora 1 minuto 15 segundos
+Beleza, show.
+Weber Alves de Oliveira 1 hora 1 minuto 18 segundos
+Alô, obrigado, Leandro. Pessoal, no final do dia a gente posta a gravação EOE a ata está bom para vocês terem acesso ao conteúdo.
+
+Leandro Oliveira Alvares
+1 hora 1 minuto 19 segundos1:01:19
+Leandro Oliveira Alvares 1 hora 1 minuto 19 segundos
+Francisco.
+
+Davi Alves de Paula
+1 hora 1 minuto 27 segundos1:01:27
+Davi Alves de Paula 1 hora 1 minuto 27 segundos
+Show de bola.
